@@ -1,6 +1,6 @@
 # Wind Forecast Portal — UK Day-Ahead Buying Support
 
-**Live App:** Replace this with your deployed application URL.
+**Live App:** https://frontend-drab-five-26.vercel.app/
 
 ## Overview
 
