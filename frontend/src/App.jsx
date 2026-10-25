@@ -13,7 +13,7 @@ import {
   ResponsiveContainer,
 } from "recharts";
 
-const API = "";
+const API = import.meta.env.VITE_API_URL || "https://backend-eight-woad-40.vercel.app";
 
 const number = (value, digits = 1) => {
   if (value === null || value === undefined || !Number.isFinite(Number(value))) {
